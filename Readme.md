@@ -1,0 +1,2 @@
+This repository contains an Rscript for predicting the Bundesliga results of the current season (2017/2018). It's a quick and dirty script so beware of code quality and layouting. We compare a random forest with a boosting model and compare performance. so far we have a decent accuracy of 65% forecasting accuracy.
+The repository contains code and data to replicate our findings.
